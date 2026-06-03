@@ -1,3 +1,5 @@
-git add ./thediriwant
+git add ./thediriwant 
 git commit -m "a comment like first commit"
 git push origin main
+
+//this line is to test how changes work
