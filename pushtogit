@@ -3,3 +3,11 @@ git commit -m "a comment like first commit"
 git push origin main
 
 //this line is to test how changes work
+
+
+
+
+to update already commited file 
+
+git commit -am " "
+git push origin main
