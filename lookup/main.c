@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*faster using lookup table and also the binary code produced from compiler is smaller*/
 const char *message[] =  {
     "not a party you are alone",
     "one is the loneliest number",
